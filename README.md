@@ -35,8 +35,8 @@ machine learning models.
 Driver_Drowsiness_Detection/
 
 - codes/
-   --drowsiness_core.py   # Core detection logic (EAR, landmarks, state)
-   --run.py               # Execution, visualization and sound alert
+   --drowsiness_core.py   # Core detection logic (EAR, landmarks, state).
+   --run.py               # Execution, visualization and sound alert.
    
 - README.md
 - requirements.txt
@@ -111,7 +111,7 @@ For best performance:
 - Video recording of detection output
 - Mobile or embedded deployment (ESP32 / Raspberry Pi)
 
-<!------------------------------------------------------!>
+<!------------------------------------------------------>
 
 ## Privacy Notice
 
